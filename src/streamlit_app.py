@@ -24,6 +24,5 @@ with st.sidebar:
     st.caption('Milestone 2 | Batch FTDS-RMT-061')
     st.caption('Abdurrahman Assegaf')
     st.caption('Data: HMDA / FFIEC')
-    st.info('Model hanya alat bantu penyaringan, bukan pengambil keputusan otomatis.')
 
 navigasi.run()
